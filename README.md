@@ -9,7 +9,9 @@ Create a database schema and table relationships that can be used in any technol
 
 
 > SCOPE :
+
 It is of critical importance to the organization how it delivers products & services to the customer, Whether the product is tangible or intangible. Effective and efficient physical movement of the tangible product will speak of intangible services associated with the product and the organization which is delivering it.
 
 > Tools :
+
 PostgreSQL, MySQL.
