@@ -4,6 +4,7 @@ The logistics company provides services in both the international and domestic s
 
 
 > Goal : 
+
 Create a database schema and table relationships that can be used in any technology. 
 
 
